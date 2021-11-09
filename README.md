@@ -1,7 +1,7 @@
 # SalesInsightForAltqHardware
 <h2>Business Request & User Stories</h2><br>
 The business request for TOBY (Data Analyst) project to executive sales report for EDWARD (Sales Managers). 
-Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br><br>
+Based on the request that was made from the business the following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br><br>
 <img src='BR.PNG'>
 <br>
 <img src='BMO.PNG'>
